@@ -10,6 +10,8 @@ int main (){
 		cout<<"Silahkan jalan"<<endl;	
 	} else if (lampu == "Merah"){
 		cout<<"Berhenti!"<<endl;
+	} else {
+		cout<<"Ketikkan warna lampu = Hijau/Merah"<<endl;
 	}
 	
 	return 0;
