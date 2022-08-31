@@ -38,6 +38,8 @@ int main (){
 		} else {
 			cout<<"Maaf pesanan anda tidak dapat dilayani"<<endl;
 		}
+	} else {
+		cout<<"Pilih antara = GoRide/GoCar"<<endl;
 	}
 	
 	return 0;
